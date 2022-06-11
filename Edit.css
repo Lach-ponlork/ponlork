@@ -1,0 +1,63 @@
+.head a{
+    
+    font-family: 'Quicksand', sans-serif;
+    color: orangered;
+    font-weight: bold;
+}
+.image img{
+    text-align: center;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.infor-header img{
+    width: 24px;
+    height: auto;
+}
+.infor-header h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.infor-header h4{
+    font-size: 28;
+    font-weight: 700;
+}
+.infor-body p{
+    line-height: 10px;
+   
+}
+.infor-body i{
+   margin-right: 10px;
+}
+.infor-socail a{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display:inline-block;
+    background-color: #444;
+    text-align: center;
+    color: whitesmoke;
+     border-radius: 50%;
+     margin-left: 10px;
+     transition: all 0.8s ease 0s;
+}
+.infor-socail .facebook:hover{
+    background-color: #4267B2;
+}
+.infor-socail .twiter:hover{
+    background-color: #00acee;
+}
+.infor-socail .youtube:hover{
+    background-color: #FF0000;
+}
+.infor-socail .instagram:hover{
+    background-color: #e95950;
+}
+#infor{
+    margin-top: 5rem;
+    
+}
+#infor img{
+    border-radius: 50%;
+
+}
